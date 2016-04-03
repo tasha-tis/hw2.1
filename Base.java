@@ -10,5 +10,8 @@ class Base {
 	} 
 	public long mult(int a, int b){
 		return a * b;
+	} 	
+	public long sqrt(int a, int b){
+		return a + b;
 	} 
 }
